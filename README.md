@@ -64,7 +64,8 @@ KPI	Value
 
 - Steady growth trend throughout the year
 - December peak at 4.3K applications
-- 🗺 State-wise Loan Distribution
+
+🗺 State-wise Loan Distribution
 - High concentration in selected states
 - Enables regional performance tracking
 
@@ -100,46 +101,35 @@ Provides transaction-level insights including:
 - Amount Received
 - Enables deep-dive credit and performance analysis.
 
+---
+
 ## Dashboard Images
+![](https://github.com/shweta0623/Bank-Loan-Dashboard/blob/main/Screenshot%201.png)
+![](https://github.com/shweta0623/Bank-Loan-Dashboard/blob/main/Screenshot%202.png)
+![](https://github.com/shweta0623/Bank-Loan-Dashboard/blob/main/Screenshot%203.png)
 
+---
 
-🎯 Business Insights
+## 🎯 Business Insights
+-Strong portfolio quality (86.2% good loans)
+- Debt consolidation dominates loan purposes
+- 36-month term is the most preferred
+- Stable MoM growth in funding & repayment
+- Balanced DTI and interest rate distribution
 
-Strong portfolio quality (86.2% good loans)
+---
 
-Debt consolidation dominates loan purposes
+## 💼 Business Value
+- This dashboard helps banks to:
+- Monitor loan portfolio health
+- Identify high-risk segments
+- Track repayment efficiency
+- Analyze borrower behavior
+- Support credit risk decision-making
 
-36-month term is the most preferred
+---
 
-Stable MoM growth in funding & repayment
-
-Balanced DTI and interest rate distribution
-
-💼 Business Value
-
-This dashboard helps banks to:
-
-Monitor loan portfolio health
-
-Identify high-risk segments
-
-Track repayment efficiency
-
-Analyze borrower behavior
-
-Support credit risk decision-making
-
-🚀 How to Use
-
-Open loan_analysis.sql in SQL Server
-
-Load cleaned dataset into Power BI
-
-Open Bank_Loan_Report.pbix
-
-Refresh data connections
-
-👩‍💻 Author
+## 👩‍💻 Author
 
 Shweta Kashyap
 Aspiring Data Analyst | Financial & Business Intelligence Enthusiast
